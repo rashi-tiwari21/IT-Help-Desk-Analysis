@@ -3,7 +3,7 @@ This project provides an in-depth analysis of an IT Help Desk's performance usin
 
 
 # Dashboard Preview:
-![Alt Text](https://github.com/rashi-tiwari21/logos/blob/main/IT%20Help%20Desk%20Video.mp4)
+![Alt Text](https://github.com/rashi-tiwari21/logos/blob/main/it%20help%20desk.png)
 
 
 **Key Insights:**
